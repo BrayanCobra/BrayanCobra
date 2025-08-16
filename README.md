@@ -12,9 +12,9 @@
    <br>
    Se conecte comigo!
 <br>
-<a href="www.instagram.com/brayan_cobra__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"></a>
+<a href="https://www.instagram.com/brayan_cobra__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"></a>
 <br>
-<a href="www.linkedin.com/in/brayancobraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+<a href="https://www.linkedin.com/in/brayancobraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
    <br>
    <br>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanCobra)](https://github.com/anuraghazra/github-readme-stats)
